@@ -1,0 +1,23 @@
+.Pra{
+color: rgb(0, 0, 0);
+
+width: 500px;
+height: 450px;
+}
+
+.image {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+
+  }
+   
+  .d{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+
+  }
